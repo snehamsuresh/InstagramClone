@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="post">Post</string>
+</resources>
